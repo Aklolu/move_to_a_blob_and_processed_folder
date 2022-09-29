@@ -1,0 +1,4 @@
+azure_blob_connectionstring: "connectionstring"
+target_container: ""
+source_folder: "C:\\Users\\aolun\\OneDrive\\Desktop\\test source"
+destination_folder: "C:\\Users\\aolun\\OneDrive\\Desktop\test destination"
